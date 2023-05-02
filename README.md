@@ -1,7 +1,7 @@
 ---
 description: Here you can see all the available commands for TNT-Tag!
 cover: .gitbook/assets/1370413-0976ea800ed1e383827bbc8932c31ee0.webp
-coverY: 65
+coverY: 203.38227146814404
 ---
 
 # 🖥 Commands

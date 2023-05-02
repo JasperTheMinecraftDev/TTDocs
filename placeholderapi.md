@@ -1,4 +1,4 @@
-# ✈ PlaceholderAPI
+# 📂 PlaceholderAPI
 
 PlaceholderAPI is a plugin for Minecraft servers that allows for the creation and usage of custom placeholders in various plugins, including TNT-Tag. These placeholders allow server administrators to display various information about players, games, and more in a convenient and dynamic way.
 
