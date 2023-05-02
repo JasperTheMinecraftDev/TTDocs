@@ -1,4 +1,4 @@
-# Permissions
+# 🚷 Permissions
 
 TNT-Tag permissions are a set of commands for managing a TNT-Tag game on a Minecraft server. The commands can be used by players with the appropriate permissions to create, delete, list, join, leave, and get help with TNT-Tag games.
 

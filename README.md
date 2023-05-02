@@ -1,8 +1,10 @@
 ---
 description: Here you can see all the available commands for TNT-Tag!
+cover: .gitbook/assets/1370413-0976ea800ed1e383827bbc8932c31ee0.webp
+coverY: 65
 ---
 
-# Commands
+# 🖥 Commands
 
 **/tnttag create**
 
@@ -50,4 +52,8 @@ This command force-starts the specified arena. This can be used for testing purp
 \
 **/tnttag info \<arena>**\
 \
-This command shows you some info about a arena such as the countdown and the minimum/maximum players. This is only for debugging purposes.
+This command shows you some info about a arena such as the countdown and the minimum/maximum players. This is only for debugging purposes.\
+\
+**/tnttag editor \<arena>**\
+\
+This command allows you to edit almost everything from your arena's! It's simple to use and eliminates the need to recreate your arena for every change.

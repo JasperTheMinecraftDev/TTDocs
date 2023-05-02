@@ -1,4 +1,4 @@
-# Arena setup
+# ⬛ Arena setup
 
 To create an arena in TNT-Tag, you will need to follow the steps outlined below:
 
