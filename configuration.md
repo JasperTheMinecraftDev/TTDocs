@@ -137,3 +137,51 @@ Example:
 This sets the round duration to 180 seconds (3 minutes). Players will have to avoid being tagged by the TNT block for the duration of the round. Once the round is finished, the round finish commands specified in the config.yml file will be executed.
 
 It is important to note that the round duration can greatly affect the gameplay experience. If the duration is too short, players may not have enough time to fully enjoy the game. On the other hand, if the duration is too long, the game may become tedious and players may lose interest. It is recommended to experiment with different round durations to find the optimal duration for your players.
+
+**Bungee Mode**
+
+`bungee-mode` controls the behavior of players when they join and leave TNT-Tag in Bungee Mode. You can configure whether players instantly join TNT-Tag, are unable to leave TNT-Tag, and specify the lobby server name.
+
+Example:
+
+```yaml
+bungee-mode:
+  enabled: false
+  lobby-server: "lobby" # The name of your lobby server.
+  enter-arena-instantly: false # Only enable this if you only have one arena, it will let players enter that arena directly.
+  restart-command: "restart" # Your server will be automatically restarted after an arena ends if "enter-arena-instantly" is set to true.
+```
+
+**Cooldown for Tagging Survivors**
+
+`cooldown` specifies the cooldown settings for tagging survivors. You can enable or disable it and set the duration in seconds.
+
+Example:
+
+```yaml
+cooldown:
+  enabled: true
+  duration: 2.0
+```
+
+**Delay Settings**
+
+`delay` specifies the delay settings between starting a new round and teleporting back to the global lobby after a game. You can configure the delay for both situations.
+
+Example:
+
+```yaml
+delay:
+  new-round: 3
+  after-game: 5
+```
+
+**Global Lobby Option**
+
+`global-lobby` determines whether the global lobby is enabled or disabled. If set to false, players will instantly leave the TNT-Tag mode when they want to leave an arena, and they won't be able to join it as well if this is disabled.
+
+Example:
+
+```yaml
+global-lobby: true
+```

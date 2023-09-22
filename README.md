@@ -46,14 +46,14 @@ This command displays the stats of the player who runs it. Stats may include thi
 
 This command displays the top three players in each stat category for TNT Tag. This can be used to see which players are the best at the game, and to compare one's own stats to those of others.\
 \
-**/tnttag start \<arena>**\
+**/tnttag start (arena) \[forced]**\
 \
 This command force-starts the specified arena. This can be used for testing purposes.\
 \
-**/tnttag info \<arena>**\
+**/tnttag info (arena)**\
 \
 This command shows you some info about a arena such as the countdown and the minimum/maximum players. This is only for debugging purposes.\
 \
-**/tnttag editor \<arena>**\
+**/tnttag editor (arena)**\
 \
 This command allows you to edit almost everything from your arena's! It's simple to use and eliminates the need to recreate your arena for every change.
