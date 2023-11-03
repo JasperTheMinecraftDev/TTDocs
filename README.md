@@ -56,4 +56,8 @@ This command shows you some info about a arena such as the countdown and the min
 \
 **/tnttag editor (arena)**\
 \
-This command allows you to edit almost everything from your arena's! It's simple to use and eliminates the need to recreate your arena for every change.
+This command allows you to edit almost everything from your arena's! It's simple to use and eliminates the need to recreate your arena for every change.\
+\
+**/tnttag autojoin/randomjoin**\
+\
+This command allows you to join a random available arena at any time! This can be useful for GUI's, portals, etc.

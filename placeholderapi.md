@@ -8,13 +8,17 @@ TNT-Tag has several placeholders available for use with PlaceholderAPI:
 
 `%tnttag_timestagged%` This placeholder displays the number of times a player has been tagged by TNT blocks during a game of TNT-Tag. This can be useful for displaying player performance or creating anti-cheat measures.
 
-`%tnttag_tags%` This placeholder displays the number of players a player has tagged with TNT blocks during a game of TNT-Tag. This can be useful for displaying player performance or creating anti-cheat measures.
+`%tnttag_tags%` This placeholder displays the number of players a player has tagged with TNT blocks during a game of TNT-Tag. This can be useful for displaying player performance or creating anti-cheat measures.\
+\
+`%tnttag_winstreak%` This placeholder displays the number of games won in a row by a player during TNT-Tag. It's a useful metric for tracking a player's winning streak and can be used to display their gaming achievements.
 
 `%tnttag_top_wins_X%` This placeholder displays the player's position in the top X players with the most wins in TNT-Tag. Replace X with the desired position (e.g., %tnttag\_top\_wins\_1% for the top player).
 
 `%tnttag_top_timestagged_X%` This placeholder displays the player's position in the top X players who have been tagged the most in TNT-Tag. Replace X with the desired position (e.g., %tnttag\_top\_timestagged\_1% for the top player).
 
-`%tnttag_top_tags_X%` This placeholder displays the player's position in the top X players who have tagged the most players in TNT-Tag. Replace X with the desired position (e.g., %tnttag\_top\_tags\_1% for the top player).
+`%tnttag_top_tags_X%` This placeholder displays the player's position in the top X players who have tagged the most players in TNT-Tag. Replace X with the desired position (e.g., %tnttag\_top\_tags\_1% for the top player).\
+\
+`%tnttag_top_winstreak_X%` This placeholder displays the player's position in the top X players who have the highest winstreak in TNT-Tag. Replace X with the desired position (e.g., %tnttag\_top\_winstreak\_1% for the top player).
 
 `%tnttag_arena_ARENA_NAME_currentPlayers%` This placeholder displays the current number of players in the specified arena. Replace ARENA\_NAME with the name of the arena.
 
