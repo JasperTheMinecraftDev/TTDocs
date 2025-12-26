@@ -4,7 +4,7 @@ cover: .gitbook/assets/1370413-0976ea800ed1e383827bbc8932c31ee0.webp
 coverY: 203.38227146814404
 ---
 
-# 🖥 Commands
+# 🖥️ Commands
 
 **/tnttag create**
 
@@ -22,7 +22,7 @@ This command shows a list of all available TNT Tag arenas on the server. Players
 
 This command allows a player to join an available TNT Tag arena. The player will be teleported to the arena and given the necessary equipment to play the game.\
 \
-**/tnttag joingui**\
+&#xNAN;**/tnttag joingui**\
 \
 This command allows a player to open a join GI that lists the available TNT Tag arena's. The player will be teleported to the arena and given the necessary equipment to play the game.
 
@@ -46,18 +46,18 @@ This command displays the stats of the player who runs it. Stats may include thi
 
 This command displays the top three players in each stat category for TNT Tag. This can be used to see which players are the best at the game, and to compare one's own stats to those of others.\
 \
-**/tnttag start (arena) \[forced]**\
+&#xNAN;**/tnttag start (arena) \[forced]**\
 \
 This command force-starts the specified arena. This can be used for testing purposes.\
 \
-**/tnttag info (arena)**\
+&#xNAN;**/tnttag info (arena)**\
 \
 This command shows you some info about a arena such as the countdown and the minimum/maximum players. This is only for debugging purposes.\
 \
-**/tnttag editor (arena)**\
+&#xNAN;**/tnttag editor (arena)**\
 \
 This command allows you to edit almost everything from your arena's! It's simple to use and eliminates the need to recreate your arena for every change.\
 \
-**/tnttag autojoin/randomjoin**\
+&#xNAN;**/tnttag autojoin/randomjoin**\
 \
 This command allows you to join a random available arena at any time! This can be useful for GUI's, portals, etc.

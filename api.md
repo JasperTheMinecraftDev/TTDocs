@@ -56,7 +56,7 @@ Returns a map of the UUIDs of all players and their corresponding number of time
 
 Returns a map of the UUIDs of all players and their corresponding number of tags.\
 \
-**`TreeMap<UUID, Integer> getWinstreakData()`**
+&#xNAN;**`TreeMap<UUID, Integer> getWinstreakData()`**
 
 Returns a map of the UUIDs of all players and their corresponding winstreak.
 
